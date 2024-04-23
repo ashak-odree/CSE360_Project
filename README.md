@@ -57,6 +57,9 @@ To run this project on your Arduino board, follow these steps:
 ![alt text](https://github.com/ashak-odree/CSE360_Project/blob/main/Picture%20of%20the%20project.jpg "Optional title")
 
 
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## <b>Connect with Me at</b>
 <br>
